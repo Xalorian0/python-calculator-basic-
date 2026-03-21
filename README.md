@@ -12,6 +12,5 @@ This is a Level 1 caculator built using python.
 - Run the python file
 - Enter number and select operation
 
-#Author
-
+## Author
 Xalorian
