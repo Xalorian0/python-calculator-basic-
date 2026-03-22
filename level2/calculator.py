@@ -2,7 +2,7 @@ while True:
     try:
         num1 = float(input("enter your first number : "))
         num2 = float(input("enter your second number : "))
-        operation = input("give operation +,-,/,*,%,**  : ")
+        operation = input("give operation +,-,/,*, : ")
         if operation == "+":
             print(f"{num1} + {num2} = {num1+num2}")
         elif operation == "-":
