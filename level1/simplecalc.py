@@ -11,6 +11,6 @@ try:
     elif operation == "*":
         print(num1*num2)
     else:
-        print("invaild output")
+        print("invaild input")
 except:
     print("invaild input")
