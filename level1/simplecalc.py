@@ -13,4 +13,4 @@ try:
     else:
         print("invaild output")
 except:
-    print("invaild output")
+    print("invaild input")
