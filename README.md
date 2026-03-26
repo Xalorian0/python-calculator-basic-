@@ -1,6 +1,6 @@
 # 🧮 Python Calculator (Level 1 ➡️ Level 3)
 ## Description
-In this project, i am building Python calculator from Basic to Advanced (Level 1 to Level 3)
+In this project, i am building a Python calculator from Basic to Advanced (Level 1 to Level 3)
 ## Levels
 ## Level 1 (Basic): 
 # Features : 
@@ -18,12 +18,20 @@ In this project, i am building Python calculator from Basic to Advanced (Level 1
 - Used F string to display calculations eg : ( 1 + 1 = )
 - Improved Code overall
 - Used Valuerror for input validation
-## Level 3 (soon)
-
-
+## Level 3 (Advance):
+# Features :
+- CLI based 
+- Functions for structure'
+- Dictionary instead fo if-else logic
+- Last_Result for using last result to perfrom next calculations
+- History to see previous result
+- Added new operations (Power,Percentage)
+- Used ASCII art
+- Choice Based UX
+- Improved Stability And Bugs
+- (New Update Soon)
 ## How to Run
 - Run the calculator using python
 - Enter number and select operations
-
 ## Author
 Xalorian
