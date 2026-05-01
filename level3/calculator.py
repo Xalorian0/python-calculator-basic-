@@ -30,7 +30,7 @@ def divide(a,b):
 def multiply(a,b):
     return(a*b)
 def Power(a):
-    return(a * a)
+    return(a ^ a)
 def perc(a,b):
     return(a * b)/100
 
